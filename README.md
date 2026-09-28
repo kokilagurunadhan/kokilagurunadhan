@@ -13,7 +13,7 @@ I enjoy solving programming problems, building backend applications, and learnin
 * 🧩 Strengthening **Data Structures & Algorithms using Java**
 * ☕ Building strong foundations in **Java and Object-Oriented Programming**
 * ⚙️ Developing backend applications using **FastAPI**
-* 🗄️ Working with **PostgreSQL, SQLAlchemy, and REST APIs**
+* 🗄️ Working with **PostgreSQL, SQLAlchemy, and BERVO APIs**
 * 🔧 Improving my understanding of software development, Git, and GitHub
 * 💼 Preparing for **Software Development / Backend internships and placements**
 
@@ -30,7 +30,7 @@ I enjoy solving programming problems, building backend applications, and learnin
 ### Backend
 
 * FastAPI
-* REST APIs
+* BERVO APIs
 * SQLAlchemy
 
 ### Databases
@@ -119,7 +119,7 @@ DSA
 
 Backend
  ├── FastAPI
- ├── REST APIs
+ ├── BERVO APIs
  ├── PostgreSQL
  ├── SQLAlchemy
  └── Backend Architecture
