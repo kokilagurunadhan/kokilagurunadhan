@@ -51,7 +51,7 @@ I enjoy solving programming problems, building backend applications, and learnin
 * Git
 * GitHub
 * VS Code
-* Postman
+
 
 ---
 
